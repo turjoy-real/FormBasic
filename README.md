@@ -47,7 +47,7 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Step 3: Navigating through the screens
 
-Now that you have successfully run the app, let's modify it.
+Now that you have successfully run the app, let's play with it.
 
 1. "Get Started" button takes to "Signup Screen"
 2. "Sign in instead" text button takes to "Login Screen"
